@@ -16,3 +16,12 @@ p{
     height: 25%%;
     border: 2px solid sandybrown;
 }
+
+.itens{
+   font-style: italic;
+   text-align: left;
+}
+
+.beneficios{
+   background-color: ivory;
+}

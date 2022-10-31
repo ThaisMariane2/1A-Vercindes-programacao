@@ -3,17 +3,17 @@ background-color: maroon;
 }
 h1{
    color: rebeccapurple;
-   font-size: 95%; 
+   font-size: 30px; 
    text-align: center;
 }
 p{
    color: rebeccapurple;
-   font-size: 95%;
+   font-size: 25px;
    text-align: center;
 }
 #imagem1{
-    width: 35%;
-    height: 25%;
+    width: 85%;
+    height: 20%;
     border: 2px solid sandybrown;
 }
 

@@ -32,10 +32,14 @@ h2{
    text-align: left;
 }
 
-ul{
+   ul{
    display: inline-block;
    vertical-align: top;
    margin: 3%;
    list-style: circle;
 }
+
+ #imagem2{
+      width: 50%;
+ }
 
